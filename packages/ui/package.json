@@ -1,6 +1,6 @@
 {
     "name": "@xw/ui",
-    "version": "0.0.0",
+    "version": "0.0.2",
     "sideEffects": false,
     "license": "MIT",
     "exports": {
@@ -30,6 +30,6 @@
         "react": "^18.2.0"
     },
     "publishConfig": {
-        "access": "public"
+        "registry": "https://https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
     }
 }

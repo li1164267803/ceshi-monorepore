@@ -4,6 +4,6 @@
     "private": true,
     "license": "MIT",
     "publishConfig": {
-        "access": "public"
+        "registry": "https://https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
     }
 }

@@ -1,6 +1,6 @@
 {
     "name": "@xw/utils",
-    "version": "0.0.0",
+    "version": "1.0.1",
     "sideEffects": false,
     "license": "MIT",
     "main": "dist/index.mjs",
@@ -25,6 +25,6 @@
         "react": "^18.2.0"
     },
     "publishConfig": {
-        "access": "public"
+        "registry": "https://https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
     }
 }

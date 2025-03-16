@@ -1,11 +1,9 @@
 {
-    "$schema": "https://unpkg.com/@changesets/config@3.0.0/schema.json",
     "changelog": "@changesets/cli/changelog",
     "commit": false,
-    "fixed": [],
-    "linked": [],
     "access": "restricted",
     "baseBranch": "main",
-    "updateInternalDependencies": "patch",
-    "ignore": []
+    "publishConfig": {
+        "registry": "https://https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
+    }
 }
