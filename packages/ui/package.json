@@ -30,6 +30,6 @@
         "react": "^18.2.0"
     },
     "publishConfig": {
-        "registry": "https://https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
+        "registry": "https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
     }
 }

@@ -15,6 +15,6 @@
         "eslint-plugin-storybook": "^0.8.0"
     },
     "publishConfig": {
-        "registry": "https://https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
+        "registry": "https://artifacts-cn-shanghai.volces.com/repository/ruyi/"
     }
 }
